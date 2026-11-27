@@ -1,1 +1,1 @@
-Documents the methodological framework and step-by-step procedures followed throughout the project.
+Provides a step-by-step description of data collection, image preprocessing, NDWI calculation, shoreline extraction, and shoreline change analysis methods.
